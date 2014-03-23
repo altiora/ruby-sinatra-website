@@ -7,3 +7,9 @@ end
 get '/italian' do
   "Ciao!"
 end
+get '/spanish' do
+  "¡Hola!"
+end
+get '/french' do
+  "Bonjour!"
+end
