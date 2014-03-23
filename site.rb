@@ -14,3 +14,6 @@ end
 get '/french' do
   "Bonjour!"
 end
+get '/read_more' do
+  erb :read_more
+end
